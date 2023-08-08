@@ -1,3 +1,3 @@
 # Winnipeg_Weather_Predictions
 
-This project looks at the historical weather conditions of 
+This project looks at the historical weather conditions of the target location. 
