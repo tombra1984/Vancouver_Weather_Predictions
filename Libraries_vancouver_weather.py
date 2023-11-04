@@ -10,3 +10,9 @@ v2020_df1 = pd.read_csv(r"C:\Users\Tombra\Vancouver_Weather_Predictions\Vancouve
 v2021_df1 = pd.read_csv(r"C:\Users\Tombra\Vancouver_Weather_Predictions\Vancouver_raw_data\en_climate_daily_BC_1108395_2021_P1D.csv")
 v2022_df1 = pd.read_csv(r"C:\Users\Tombra\Vancouver_Weather_Predictions\Vancouver_raw_data\en_climate_daily_BC_1108395_2022_P1D.csv")
 
+import matplotlib.pyplot as plt
+import pandas as pd
+import plotly.express as px
+import plotly.io as pio
+import plotly.graph_objects as go
+pio.templates.default = "plotly_white"
