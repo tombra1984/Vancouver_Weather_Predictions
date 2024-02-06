@@ -12,7 +12,7 @@ Although December is observed to record the lowest temperatures within the study
 
 ![Alt text](image-1.png)
 
-![Alt text](image-3.png)
+
 
 
  
